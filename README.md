@@ -10,6 +10,17 @@ https://github.com/yurtarmehmet/41-todo-without-redux
 
  - Todolarin yanina bir sil butonu koyup butona basildiginda ilgili todonun silinmesini bekliyorum. Silme aksiyonu redux ile yapilacaktir.
 
+# Yapılanlar
+
+ - Todoların yanına buton ekleyerek silme işlemini redux ile gerçekleştirdim.
+ - Reactstrap kütüphanesini kullanarak önyüzde iyileştirmeler yaptım.
+ - redux-thunk middleware'ini ekleyerek actionlarınmı dispatch ettim.
+
+# Proje Örnek Resim
+
+![](images/project_photo_1.png)
+
+
 ## Kaynaklar
 
 -   Managing State in Modern React Apps:  [https://developerhandbook.com/react/managing-state-modern-react-web-applications/](https://developerhandbook.com/react/managing-state-modern-react-web-applications/)
