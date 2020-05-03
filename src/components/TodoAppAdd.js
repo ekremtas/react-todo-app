@@ -21,6 +21,9 @@ class TodoAppAdd extends Component {
           // statete tuttugum inputu son degerini aliyorum
           const newContent = this.state.value;
           this.props.addTodo(newContent);
+          this.setState({
+            value: ""
+          })
         }}
       >
         <FormGroup>
