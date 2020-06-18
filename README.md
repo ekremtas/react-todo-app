@@ -3,7 +3,7 @@ React & redux; I developed with. An application where you can add, delete and li
 
 ## Live Link of the Project
 
-[https://ekremtas.github.io/react-todo-app](https://ekremtas.github.io/react-todo-app)
+[https://ekremtas.github.io/react-todo-app/](https://ekremtas.github.io/react-todo-app/)
 
 ## Libraries I Use
 [React](https://www.npmjs.com/package/react)
