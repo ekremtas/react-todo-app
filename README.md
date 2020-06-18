@@ -1,27 +1,36 @@
-#  Projeyi calistirma
+# React & Redux with Todo Application 
+React & redux; I developed with. An application where you can add, delete and list our todo.
 
-`yarn install` komutu ile paketleri yukledikten sonra `yarn start` ile projeyi calistirabilirsiniz.
+## Live Link of the Project
 
-Projenin redux eklekmenden onceki haline de asagidaki linkten ulasabilirsiniz.
-https://github.com/yurtarmehmet/41-todo-without-redux
+[https://ekremtas.github.io/react-todo-app](https://ekremtas.github.io/react-todo-app)
 
+## Libraries I Use
+[React](https://www.npmjs.com/package/react)
 
-# Odevler
+[Redux](https://www.npmjs.com/package/redux)
 
- - Todolarin yanina bir sil butonu koyup butona basildiginda ilgili todonun silinmesini bekliyorum. Silme aksiyonu redux ile yapilacaktir.
+[react-redux](https://www.npmjs.com/package/react-redux)
 
-# Yapılanlar
+[redux-thunk](https://www.npmjs.com/package/redux-thunk)
 
- - Todoların yanına buton ekleyerek silme işlemini redux ile gerçekleştirdim.
- - Reactstrap kütüphanesini kullanarak önyüzde iyileştirmeler yaptım.
- - redux-thunk middleware'ini ekleyerek actionlarınmı dispatch ettim.
+[reactstrap](https://www.npmjs.com/package/reactstrap)
 
-# Proje Örnek Resim
+## Run The Project
+```
+$ yarn install
+```
+After installing packages with
 
+```
+$ yarn start
+```
+You can run the project with.
+
+# Sample Picture from the Project
 ![](images/project_photo_1.png)
 
-
-## Kaynaklar
+## Resources
 
 -   Managing State in Modern React Apps:  [https://developerhandbook.com/react/managing-state-modern-react-web-applications/](https://developerhandbook.com/react/managing-state-modern-react-web-applications/)
 -   Bir JavaScript developer neden Redux Ogrenmeli:  [https://www.robinwieruch.de/redux-javascript](https://www.robinwieruch.de/redux-javascript)
